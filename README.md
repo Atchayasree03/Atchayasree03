@@ -286,12 +286,13 @@ Implemented end-to-end workflows for model customisation: dataset curation, fine
 
 ---
 
-## 🐍 Contribution Snake
+# Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Atchayasree03/Atchayasree03/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 ---
 
 ## 🎯 Current Focus
