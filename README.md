@@ -46,25 +46,6 @@ Computer Science Engineering student with a strong engineering foundation in Art
 
 Focused on designing enterprise-grade AI systems with emphasis on performance optimization, scalable architectures, efficient model deployment, and clean engineering workflows. Experienced in national-level hackathons, AI research prototypes, and rapid product engineering cycles.
 
-Areas of specialization include:
-
-- Artificial Intelligence & Machine Learning
-- Computer Vision & Real-Time Detection Systems
-- Deep Learning & Neural Networks
-- Large Language Models & Prompt Engineering
-- Full Stack Product Development
-- Intelligent Automation Systems
-- Data Processing & Analytics Pipelines
-
-### Open To
-
-- AI / ML Engineering Internships
-- Software Engineering Opportunities
-- Research Collaborations
-- Open Source Contributions
-- Product Engineering Teams
-
----
 
 # Tech Stack
 
@@ -198,28 +179,6 @@ Fine-tuned Large Language Models for domain-specific inference, contextual respo
 
 ---
 
-# Experience
-
-## AI & Software Engineering Projects
-### Independent Engineering & Research
-#### 2025 — Present
-
-Building intelligent software systems focused on Artificial Intelligence, Computer Vision, and scalable engineering architectures through hackathons and self-driven research initiatives.
-
-### Scope of Work
-
-- Developed real-time AI detection systems
-- Built scalable Machine Learning workflows
-- Designed intelligent automation platforms
-- Engineered Computer Vision architectures
-- Optimized AI inference and deployment systems
-
-### Skills
-
-`Python` `PyTorch` `Computer Vision` `YOLO` `Machine Learning` `AI Engineering` `LLM` `OpenCV`
-
----
-
 # Achievements
 
 <div align="center">
@@ -234,50 +193,6 @@ Building intelligent software systems focused on Artificial Intelligence, Comput
 
 ---
 
-# Certifications
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Database%20Concepts-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Machine%20Learning%20Elite-4F46E5?style=for-the-badge"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 # GitHub Analytics
 
 <div align="center">
@@ -287,16 +202,6 @@ Building intelligent software systems focused on Artificial Intelligence, Comput
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Atchayasree03&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atchayasree03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Atchayasree03&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -319,32 +224,6 @@ Building intelligent software systems focused on Artificial Intelligence, Comput
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced Deep Learning Architectures
-  - Cloud Native Engineering
-  - AI System Optimization
-
-Building:
-  - Intelligent AI Applications
-  - Computer Vision Systems
-  - Real-Time Detection Platforms
-
-Exploring:
-  - Generative AI
-  - Multi-Agent Systems
-  - Scalable AI Infrastructure
-
-Open To:
-  - Software Engineering Internships
-  - AI/ML Engineering Opportunities
-  - Research Collaborations
-````
 
 ---
 
